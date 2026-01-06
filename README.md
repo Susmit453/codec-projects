@@ -1,3 +1,1 @@
-# codec-projects
-internship projects 
-
+Movie recommender system
